@@ -17,4 +17,4 @@ A Java-based console application for managing product inventory using Object-Ori
 ## 📂 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Java-Inventory-Management-System.git
+   git clone https://github.com/KusumaBoddeti/Java-Inventory-Management-System.git
